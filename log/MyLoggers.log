@@ -1,0 +1,29 @@
+26-10-2022 11:32:32 INFO - Starting OnlineShoppingApplication using Java 17.0.4.1 on charanteja with PID 3780 (C:\Users\achar\OneDrive\Desktop\code\online-shopping-backend-master\target\classes started by achar in C:\Users\achar\OneDrive\Desktop\code\online-shopping-backend-master)
+26-10-2022 11:32:32 DEBUG - Running with Spring Boot v2.7.2, Spring v5.3.22
+26-10-2022 11:32:32 INFO - No active profile set, falling back to 1 default profile: "default"
+26-10-2022 11:32:40 INFO - Started OnlineShoppingApplication in 8.539 seconds (JVM running for 10.168)
+26-10-2022 11:38:50 INFO - Starting OnlineShoppingApplication using Java 17.0.4.1 on charanteja with PID 3780 (C:\Users\achar\OneDrive\Desktop\code\online-shopping-backend-master\target\classes started by achar in C:\Users\achar\OneDrive\Desktop\code\online-shopping-backend-master)
+26-10-2022 11:38:50 DEBUG - Running with Spring Boot v2.7.2, Spring v5.3.22
+26-10-2022 11:38:50 INFO - No active profile set, falling back to 1 default profile: "default"
+26-10-2022 11:38:51 INFO - Started OnlineShoppingApplication in 1.703 seconds (JVM running for 381.931)
+26-10-2022 11:40:48 INFO - recieved request for REGISTER USER
+26-10-2022 11:40:48 INFO - AddUserRequest [firstName=rosy, lastName=j, emailId=rosy@gmail.com, password=rosy, phoneNo=09865, street=beach road, city=vizag, pincode=509886]
+26-10-2022 11:40:48 INFO - response sent!!!
+26-10-2022 12:37:51 INFO - Starting OnlineShoppingApplication using Java 17.0.4.1 on charanteja with PID 16560 (C:\Users\achar\OneDrive\Desktop\code\online-shopping-backend-master\target\classes started by achar in C:\Users\achar\OneDrive\Desktop\code\online-shopping-backend-master)
+26-10-2022 12:37:51 DEBUG - Running with Spring Boot v2.7.2, Spring v5.3.22
+26-10-2022 12:37:51 INFO - No active profile set, falling back to 1 default profile: "default"
+26-10-2022 12:37:57 INFO - Started OnlineShoppingApplication in 6.399 seconds (JVM running for 7.963)
+26-10-2022 12:43:21 INFO - recieved request for REGISTER USER
+26-10-2022 12:43:21 INFO - AddUserRequest [firstName=rosy, lastName=j, emailId=rosy@gmail.com, password=rosy, phoneNo=09865, street=beach road, city=vizag, pincode=509886]
+26-10-2022 12:43:21 INFO - response sent!!!
+26-10-2022 13:32:00 INFO - Starting OnlineShoppingApplication using Java 17.0.4.1 on charanteja with PID 13288 (C:\Users\achar\OneDrive\Desktop\code\online-shopping-backend-master\target\classes started by achar in C:\Users\achar\OneDrive\Desktop\code\online-shopping-backend-master)
+26-10-2022 13:32:00 DEBUG - Running with Spring Boot v2.7.2, Spring v5.3.22
+26-10-2022 13:32:00 INFO - No active profile set, falling back to 1 default profile: "default"
+26-10-2022 13:32:05 INFO - Started OnlineShoppingApplication in 5.798 seconds (JVM running for 6.935)
+26-10-2022 15:04:39 INFO - recieved request for REGISTER USER
+26-10-2022 15:04:39 INFO - AddUserRequest [firstName=surya, lastName=L, emailId=surya@gmail.com, password=surya, phoneNo=63909865, street=beach road, city=vizag, pincode=509886]
+26-10-2022 15:04:39 INFO - response sent!!!
+26-10-2022 15:18:17 INFO - Starting OnlineShoppingApplication using Java 17.0.4.1 on charanteja with PID 6892 (C:\Users\achar\OneDrive\Desktop\code\online-shopping-backend-master\target\classes started by achar in C:\Users\achar\OneDrive\Desktop\code\online-shopping-backend-master)
+26-10-2022 15:18:17 DEBUG - Running with Spring Boot v2.7.2, Spring v5.3.22
+26-10-2022 15:18:17 INFO - No active profile set, falling back to 1 default profile: "default"
+26-10-2022 15:18:24 INFO - Started OnlineShoppingApplication in 8.278 seconds (JVM running for 12.228)
